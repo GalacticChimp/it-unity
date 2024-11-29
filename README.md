@@ -6,6 +6,8 @@ This is a Unity migration of Josh Coppola's [Iron Testament](https://github.com/
 
 Related Bay12 forum thread: [Iron Testament](http://www.bay12forums.com/smf/index.php?topic=121634.0)
 
+Link to my fork: https://github.com/GalacticChimp/it-revived
+
 ## Goals
 ### Original
 
